@@ -21,7 +21,7 @@
 ## Ejercicio “Registraduría”
 todo se encuentra en este repositorio
 
-###Finalizar el ejercicio
+### Finalizar el ejercicio
 
 ## Ejercicio "Descuento de tarifas"
 
