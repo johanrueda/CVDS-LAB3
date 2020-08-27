@@ -1,6 +1,6 @@
 # CVDS-LAB3
 ## Joel Carvajal - Johan Rueda
-##Crear un proyecto con Maven
+## Crear un proyecto con Maven
 ![](https://github.com/johanrueda/CVDS-LAB3/blob/master/Imagenes/primera.PNG)
 
 ![](https://github.com/johanrueda/CVDS-LAB3/blob/master/Imagenes/segunda.PNG)
@@ -23,5 +23,5 @@ todo se encuentra en este repositorio
 
 ## Ejercicio "Descuento de tarifas"
 
-se adiciono el [archivo]() en respuesta a la etapa de diseño
+se adiciono el [archivo](https://github.com/johanrueda/CVDS-LAB3/blob/master/Diseño.pdf) en respuesta a la etapa de diseño
 
