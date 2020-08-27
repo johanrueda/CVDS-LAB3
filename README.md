@@ -21,8 +21,6 @@
 ## Ejercicio “Registraduría”
 todo se encuentra en este repositorio
 
-### Finalizar el ejercicio
-
 ## Ejercicio "Descuento de tarifas"
 
 se adiciono el [archivo](https://github.com/johanrueda/CVDS-LAB3/blob/master/Diseño.pdf) en respuesta a la etapa de diseño
