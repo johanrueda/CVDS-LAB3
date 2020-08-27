@@ -15,11 +15,12 @@
 	</dependency>
 ~~~
 ## Compilar y Ejecutar
- * **Compilar:** ' mvn compile '
- * **ejecutar pruebas:** ' mvn -Dtest=edu.eci.cvds.tdd.AppTest test '
+ * **Compilar:** ` mvn compile `
+ * **ejecutar pruebas:** ` mvn -Dtest=edu.eci.cvds.tdd.AppTest test `
 
 ## Ejercicio “Registraduría”
 todo se encuentra en este repositorio
+
 ###Finalizar el ejercicio
 
 ## Ejercicio "Descuento de tarifas"
