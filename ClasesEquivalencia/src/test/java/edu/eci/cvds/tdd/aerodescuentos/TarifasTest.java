@@ -4,10 +4,16 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class TarifasTest {
+	
+	
 	@Test
     public void edadIncorrecta() {
+		try{
         double tarifaF = CalculadorDescuentos.calculoTarifa(20000, 21, -5);
-        Assert.assertEquals(0, tarifaF,0);
+        Assert.assertEquals(19000, tarifaF,0);
+		}catch(Exception e){
+            fail();
+        }
     }
 	
 	@Test
@@ -30,8 +36,12 @@ public class TarifasTest {
 	
 	@Test
     public void diasIncorrecta() {
+		try{
         double tarifaF = CalculadorDescuentos.calculoTarifa(20000, -5, 50);
-        Assert.assertEquals(0, tarifaF,0);
+        Assert.assertEquals(20000, tarifaF,0);
+		}catch(Exception e){
+            fail();
+        }
     }
 	
 	@Test
@@ -48,8 +58,12 @@ public class TarifasTest {
 	
 	@Test
     public void tarifaIncorrecta() {
+		try {
         double tarifaF = CalculadorDescuentos.calculoTarifa(-20000, 21, 50);
-        Assert.assertEquals(0, tarifaF,0);
+        Assert.assertEquals(-20000, tarifaF,0);
+		}catch(Exception e){
+            fail();
+        }
     }
 	
 	@Test
